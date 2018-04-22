@@ -29,7 +29,7 @@
 
 ### Actual behavior:
 
-[What actually happened]
+[What actually happened. You **must** provide supporting evidences: screenshots of logger, browser console, dashboard, etc.]
 
 ### Your environment
 
