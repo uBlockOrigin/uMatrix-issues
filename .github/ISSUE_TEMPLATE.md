@@ -23,7 +23,7 @@
 2. [Second Step]
 3. [and so on...]
 
-### Supporting evidence:
+### Supporting evidence
 
 [You MUST provide supporting evidence: screenshots of logger, browser console, dashboard/popup panel settings, etc -- i.e. all the necessary information which objectively demonstrate there is an issue.]
 
