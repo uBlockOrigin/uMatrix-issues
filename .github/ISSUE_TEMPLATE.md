@@ -23,13 +23,9 @@
 2. [Second Step]
 3. [and so on...]
 
-### Expected behavior:
+### Supporting evidences:
 
-[What you expected to happen]
-
-### Actual behavior:
-
-[What actually happened. You **must** provide supporting evidences: screenshots of logger, browser console, dashboard, etc.]
+[You MUST provide supporting evidences: screenshots of logger, browser console, dashboard/popup panel settings, etc -- i.e. all the necessary information which objectively demonstrate there is an issue.]
 
 ### Your environment
 
