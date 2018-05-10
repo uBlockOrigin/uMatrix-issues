@@ -1,7 +1,11 @@
 ### Prerequisites
 
 * [ ] Did you perform a cursory search of the issue tracker?
-    * Your issue may already be reported.
+    <!--
+        Including the old issue tracker:
+            https://github.com/gorhill/uMatrix/issues
+        Your issue may already be reported.
+    -->
 * Can you reproduce the problem when...
     * [ ] uMatrix is the only extension?
     * [ ] uMatrix with default lists/settings?
@@ -11,11 +15,11 @@
 
 ### Description
 
-[Description of the bug or feature]
+<!-- Description of the bug or feature -->
 
 ### A specific URL where the issue occurs
 
-[This is mandatory for issue happening on a web page]
+<!-- This is mandatory for issue happening on a web page -->
 
 ### Steps to Reproduce
 
@@ -25,7 +29,12 @@
 
 ### Supporting evidence
 
-[You MUST provide supporting evidence: screenshots of logger, browser console, dashboard/popup panel settings, etc -- i.e. all the necessary information which objectively demonstrate there is an issue.]
+<!--
+    You MUST provide supporting evidence: screenshots of logger,
+    browser console, dashboard/popup panel settings, etc -- i.e. all
+    the necessary information which objectively demonstrate there
+    is an issue.
+-->
 
 ### Your environment
 
