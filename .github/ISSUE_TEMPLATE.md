@@ -1,17 +1,15 @@
 ### Prerequisites
 
-* [ ] Did you perform a cursory search of the issue tracker?
-    <!--
-        Including the old issue tracker:
-            https://github.com/gorhill/uMatrix/issues
-        Your issue may already be reported.
-    -->
-* Can you reproduce the problem when...
-    * [ ] uMatrix is the only extension?
-    * [ ] uMatrix with default lists/settings?
-    * [ ] using a new, unmodified browser profile?
-* [ ] Are you running the latest version?
-* [ ] Did you check the [documentation](https://github.com/gorhill/uMatrix/wiki)?
+- [ ] I performed a cursory search of the issue tracker to avoid opening a duplicate issue
+    - Your issue may already be reported.
+- [ ] This is not a support issue or a question
+    - Support issues and questions are handled at [/r/uMatrix](https://old.reddit.com/r/uMatrix/)
+- I tried to reproduce the issue when...
+    - [ ] uMatrix is the only extension
+    - [ ] uMatrix with default lists/settings
+    - [ ] using a new, unmodified browser profile
+- [ ] I am running the latest version of uMatrix
+- [ ] I checked the [documentation](https://github.com/gorhill/uMatrix/wiki) to understand that the issue I report is not a normal behavior
 
 ### Description
 
