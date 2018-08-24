@@ -1,4 +1,9 @@
+<!-- Do NOT delete this template or any part of it when submitting your issue -->
+
 ### Prerequisites
+
+<!-- Check the appropriate boxes after you submit your issue -->
+<!-- Speculated performance issues will be marked as invalid and closed if they do not come with actual profiling data + analysis supporting the claim -->
 
 - [ ] I performed a cursory search of the issue tracker to avoid opening a duplicate issue
     - Your issue may already be reported.
