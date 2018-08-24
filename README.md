@@ -1,6 +1,6 @@
 # uMatrix-issues
 
-This is the official community-maintained [issue tracker for uMatrix](https://github.com/uBlockOrigin/uMatrix-issues/issues). Do not post issues [regarding broken sites](https://github.com/gorhill/uMatrix#warnings). uMatrix is a browser firewall, you're expected to be able to unbreak any breakage caused by the ruleset. 
+This is the official community-maintained [issue tracker for uMatrix](https://github.com/uBlockOrigin/uMatrix-issues/issues). Do not post issues [regarding broken sites](https://github.com/gorhill/uMatrix#warnings). uMatrix is a browser firewall, you're expected to be able to unbreak any breakage caused by the ruleset. Speculated performance issues will be marked as invalid and closed if they do not come with actual profiling data + analysis supporting the claim 
 
 Support issues and questions are handled at [/r/uMatrix](https://old.reddit.com/r/uMatrix/)
 
