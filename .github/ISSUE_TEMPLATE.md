@@ -16,6 +16,7 @@
     - [ ] using a new, unmodified browser profile
 - [ ] I am running the latest version of uMatrix
 - [ ] I checked the [documentation](https://github.com/gorhill/uMatrix/wiki) to understand that the issue I report is not a normal behavior
+- [ ] I used the logger to rule out that the issue is caused by my ruleset
 
 ### Description
 
