@@ -7,6 +7,7 @@
 
 - [ ] I performed a cursory search of the issue tracker to avoid opening a duplicate issue
     - Your issue may already be reported.
+    - [ ] I also searched the existing issues at <https://github.com/gorhill/uMatrix/issues>
 - [ ] This is not a support issue or a question
     - Support issues and questions are handled at [/r/uMatrix](https://old.reddit.com/r/uMatrix/)
 - I tried to reproduce the issue when...
