@@ -6,7 +6,7 @@
 <!-- Speculated performance issues will be marked as invalid and closed if they do not come with actual profiling data + analysis supporting the claim -->
 
 - [ ] I performed a cursory search of the issue tracker to avoid opening a duplicate issue
-    - Your issue may already be reported.
+    - Your issue may already be reported (remember to also check closed issues -> fix may be in not-yet-released build).
     - [ ] I also searched the existing issues at <https://github.com/gorhill/uMatrix/issues>
 - [ ] This is not a support issue or a question
     - Support issues and questions are handled at [/r/uMatrix](https://old.reddit.com/r/uMatrix/)
