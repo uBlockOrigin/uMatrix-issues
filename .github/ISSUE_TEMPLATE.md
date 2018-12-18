@@ -32,6 +32,15 @@
 2. [Second Step]
 3. [and so on...]
 
+### Ruleset
+
+<!--
+    You MUST provide ALL rules which are directly or indirectly relevant
+    to the specific reproducible case you provide: uMatrix can be
+    configured myriad ways and it is not possible to investigate properly
+    without ALL the rules involved in the specific issue you report.
+-->
+
 ### Supporting evidence
 
 <!--
