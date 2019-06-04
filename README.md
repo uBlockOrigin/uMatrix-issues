@@ -10,7 +10,7 @@ uMatrix is a browser firewall, **you're expected to be able to unbreak any break
 
 # uMatrix-dev-builds
 
-You can help the development of uMatrix by using the development build, in order to report new issues or regression bugs before stable releases of uMatrix are published.
+You can help with the development of uMatrix by using the development build, in order to report new issues or regression bugs before stable releases of uMatrix are published.
 
 Development builds:
 - Chromium-based browsers: <https://chrome.google.com/webstore/detail/umatrix-dev-build/eckgcipdkhcfghnmincccnhpdmnbefki>
