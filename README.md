@@ -4,7 +4,7 @@ This is the official community-maintained [issue tracker for uMatrix](https://gi
 
 uMatrix is a browser firewall, **you're expected to be able to unbreak any breakage caused by the ruleset.** 
 
-**Speculated performance issues will be marked as invalid and closed if they do not come with actual profiling data from [Firefox Profiler](https://profiler.firefox.com/) + analysis supporting the claim.** 
+**Speculated performance issues will be marked as invalid and closed if they do not come with actual profiling data from [Firefox Profiler](https://profiler.firefox.com/)/[Chromium Profiler](https://developer.chrome.com/devtools/docs/profiles) + analysis supporting the claim.** 
 
 **Support issues and questions are handled at [/r/uMatrix](https://old.reddit.com/r/uMatrix/).**
 
