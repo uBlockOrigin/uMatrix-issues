@@ -11,6 +11,7 @@
 - [ ] This is not a support issue or a question
     - Support issues and questions are handled at [/r/uMatrix](https://old.reddit.com/r/uMatrix/)
 - I tried to reproduce the issue when...
+    - [ ] uMatrix extension is wholly disabled or not installed
     - [ ] uMatrix is the only extension
     - [ ] uMatrix with default lists/settings
     - [ ] using a new, unmodified browser profile
